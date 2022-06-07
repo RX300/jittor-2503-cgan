@@ -2,7 +2,7 @@
 | 第二届计图挑战赛开源模板
 
 # Jittor CGAN手写数字生成 baseline
-![图片alt](\result\result.png)
+
 
 ## 简介
 
